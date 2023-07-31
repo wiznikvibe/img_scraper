@@ -1,0 +1,109 @@
+INFO 2023-07-31 17:50:41,044 werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO 2023-07-31 17:50:41,044 werkzeug: [33mPress CTRL+C to quit[0m
+INFO 2023-07-31 17:50:41,047 werkzeug:  * Restarting with stat
+WARNING 2023-07-31 17:50:42,041 werkzeug:  * Debugger is active!
+INFO 2023-07-31 17:50:42,050 werkzeug:  * Debugger PIN: 108-810-641
+INFO 2023-07-31 17:50:46,744 werkzeug: 127.0.0.1 - - [31/Jul/2023 17:50:46] "GET / HTTP/1.1" 200 -
+WARNING 2023-07-31 18:05:35,843 werkzeug:  * Debugger is active!
+INFO 2023-07-31 18:05:35,859 werkzeug:  * Debugger PIN: 108-810-641
+INFO 2023-07-31 18:05:46,865 werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO 2023-07-31 18:05:46,865 werkzeug: [33mPress CTRL+C to quit[0m
+INFO 2023-07-31 18:05:46,868 werkzeug:  * Restarting with stat
+WARNING 2023-07-31 18:05:47,750 werkzeug:  * Debugger is active!
+INFO 2023-07-31 18:05:47,750 werkzeug:  * Debugger PIN: 108-810-641
+INFO 2023-07-31 18:06:02,984 root: Home Page Called
+INFO 2023-07-31 18:06:02,988 werkzeug: 127.0.0.1 - - [31/Jul/2023 18:06:02] "GET / HTTP/1.1" 200 -
+INFO 2023-07-31 18:06:09,847 root: Search Initiated
+INFO 2023-07-31 18:06:09,851 werkzeug: 127.0.0.1 - - [31/Jul/2023 18:06:09] "GET /search HTTP/1.1" 200 -
+INFO 2023-07-31 18:06:23,199 werkzeug:  * Detected change in 'C:\\Users\\nikhi\\img_scraper\\app.py', reloading
+INFO 2023-07-31 18:06:23,245 werkzeug:  * Restarting with stat
+INFO 2023-07-31 18:06:31,369 werkzeug:  * Restarting with stat
+INFO 2023-07-31 19:27:39,299 werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO 2023-07-31 19:27:39,300 werkzeug: [33mPress CTRL+C to quit[0m
+INFO 2023-07-31 19:27:39,304 werkzeug:  * Restarting with stat
+WARNING 2023-07-31 19:27:40,328 werkzeug:  * Debugger is active!
+INFO 2023-07-31 19:27:40,336 werkzeug:  * Debugger PIN: 108-810-641
+INFO 2023-07-31 19:27:55,480 app: Search Initiated
+INFO 2023-07-31 19:27:55,488 werkzeug: 127.0.0.1 - - [31/Jul/2023 19:27:55] "GET /search HTTP/1.1" 200 -
+INFO 2023-07-31 19:27:58,758 werkzeug: 127.0.0.1 - - [31/Jul/2023 19:27:58] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+INFO 2023-07-31 19:28:32,091 werkzeug:  * Detected change in 'C:\\Users\\nikhi\\img_scraper\\app.py', reloading
+INFO 2023-07-31 19:28:32,156 werkzeug:  * Restarting with stat
+WARNING 2023-07-31 19:28:33,192 werkzeug:  * Debugger is active!
+INFO 2023-07-31 19:28:33,201 werkzeug:  * Debugger PIN: 108-810-641
+INFO 2023-07-31 19:29:09,757 werkzeug:  * Detected change in 'C:\\Users\\nikhi\\img_scraper\\app.py', reloading
+INFO 2023-07-31 19:29:09,803 werkzeug:  * Restarting with stat
+WARNING 2023-07-31 19:29:10,857 werkzeug:  * Debugger is active!
+INFO 2023-07-31 19:29:10,869 werkzeug:  * Debugger PIN: 108-810-641
+INFO 2023-07-31 19:29:11,898 werkzeug:  * Detected change in 'C:\\Users\\nikhi\\img_scraper\\app.py', reloading
+INFO 2023-07-31 19:29:11,964 werkzeug:  * Restarting with stat
+WARNING 2023-07-31 19:29:13,071 werkzeug:  * Debugger is active!
+INFO 2023-07-31 19:29:13,080 werkzeug:  * Debugger PIN: 108-810-641
+INFO 2023-07-31 19:29:15,341 werkzeug: 127.0.0.1 - - [31/Jul/2023 19:29:15] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+INFO 2023-07-31 19:29:26,660 app: Search Initiated
+INFO 2023-07-31 19:29:26,667 werkzeug: 127.0.0.1 - - [31/Jul/2023 19:29:26] "GET /search HTTP/1.1" 200 -
+INFO 2023-07-31 19:29:30,669 werkzeug: 127.0.0.1 - - [31/Jul/2023 19:29:30] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+INFO 2023-07-31 19:35:08,044 werkzeug:  * Detected change in 'C:\\Users\\nikhi\\img_scraper\\app.py', reloading
+INFO 2023-07-31 19:35:08,090 werkzeug:  * Restarting with stat
+WARNING 2023-07-31 19:35:09,252 werkzeug:  * Debugger is active!
+INFO 2023-07-31 19:35:09,261 werkzeug:  * Debugger PIN: 108-810-641
+INFO 2023-07-31 19:35:15,382 werkzeug:  * Detected change in 'C:\\Users\\nikhi\\img_scraper\\app.py', reloading
+INFO 2023-07-31 19:35:15,427 werkzeug:  * Restarting with stat
+WARNING 2023-07-31 19:35:16,485 werkzeug:  * Debugger is active!
+INFO 2023-07-31 19:35:16,493 werkzeug:  * Debugger PIN: 108-810-641
+INFO 2023-07-31 19:35:19,565 werkzeug:  * Detected change in 'C:\\Users\\nikhi\\img_scraper\\app.py', reloading
+INFO 2023-07-31 19:35:19,607 werkzeug:  * Restarting with stat
+WARNING 2023-07-31 19:35:20,667 werkzeug:  * Debugger is active!
+INFO 2023-07-31 19:35:20,677 werkzeug:  * Debugger PIN: 108-810-641
+INFO 2023-07-31 19:35:22,712 werkzeug:  * Detected change in 'C:\\Users\\nikhi\\img_scraper\\app.py', reloading
+INFO 2023-07-31 19:35:22,763 werkzeug:  * Restarting with stat
+WARNING 2023-07-31 19:35:23,845 werkzeug:  * Debugger is active!
+INFO 2023-07-31 19:35:23,854 werkzeug:  * Debugger PIN: 108-810-641
+INFO 2023-07-31 19:36:06,463 werkzeug:  * Detected change in 'C:\\Users\\nikhi\\img_scraper\\app.py', reloading
+INFO 2023-07-31 19:36:06,520 werkzeug:  * Restarting with stat
+WARNING 2023-07-31 19:36:07,560 werkzeug:  * Debugger is active!
+INFO 2023-07-31 19:36:07,568 werkzeug:  * Debugger PIN: 108-810-641
+INFO 2023-07-31 19:36:09,607 werkzeug:  * Detected change in 'C:\\Users\\nikhi\\img_scraper\\app.py', reloading
+INFO 2023-07-31 19:36:09,655 werkzeug:  * Restarting with stat
+WARNING 2023-07-31 19:36:10,735 werkzeug:  * Debugger is active!
+INFO 2023-07-31 19:36:10,744 werkzeug:  * Debugger PIN: 108-810-641
+INFO 2023-07-31 19:36:11,774 werkzeug:  * Detected change in 'C:\\Users\\nikhi\\img_scraper\\app.py', reloading
+INFO 2023-07-31 19:36:11,828 werkzeug:  * Restarting with stat
+WARNING 2023-07-31 19:36:12,953 werkzeug:  * Debugger is active!
+INFO 2023-07-31 19:36:12,963 werkzeug:  * Debugger PIN: 108-810-641
+INFO 2023-07-31 19:36:14,006 werkzeug:  * Detected change in 'C:\\Users\\nikhi\\img_scraper\\app.py', reloading
+INFO 2023-07-31 19:36:14,058 werkzeug:  * Restarting with stat
+WARNING 2023-07-31 19:36:15,078 werkzeug:  * Debugger is active!
+INFO 2023-07-31 19:36:15,086 werkzeug:  * Debugger PIN: 108-810-641
+INFO 2023-07-31 19:36:17,142 werkzeug:  * Detected change in 'C:\\Users\\nikhi\\img_scraper\\app.py', reloading
+INFO 2023-07-31 19:36:17,201 werkzeug:  * Restarting with stat
+WARNING 2023-07-31 19:36:18,330 werkzeug:  * Debugger is active!
+INFO 2023-07-31 19:36:18,340 werkzeug:  * Debugger PIN: 108-810-641
+INFO 2023-07-31 19:36:20,385 werkzeug:  * Detected change in 'C:\\Users\\nikhi\\img_scraper\\app.py', reloading
+INFO 2023-07-31 19:36:20,437 werkzeug:  * Restarting with stat
+WARNING 2023-07-31 19:36:21,487 werkzeug:  * Debugger is active!
+INFO 2023-07-31 19:36:21,495 werkzeug:  * Debugger PIN: 108-810-641
+INFO 2023-07-31 19:37:29,417 werkzeug:  * Detected change in 'C:\\Users\\nikhi\\img_scraper\\app.py', reloading
+INFO 2023-07-31 19:37:29,482 werkzeug:  * Restarting with stat
+WARNING 2023-07-31 19:37:30,531 werkzeug:  * Debugger is active!
+INFO 2023-07-31 19:37:30,543 werkzeug:  * Debugger PIN: 108-810-641
+INFO 2023-07-31 19:37:40,996 app: Search Initiated
+INFO 2023-07-31 19:37:41,004 werkzeug: 127.0.0.1 - - [31/Jul/2023 19:37:41] "GET /search HTTP/1.1" 200 -
+INFO 2023-07-31 19:37:43,861 werkzeug: 127.0.0.1 - - [31/Jul/2023 19:37:43] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+INFO 2023-07-31 19:39:45,437 werkzeug:  * Detected change in 'C:\\Users\\nikhi\\img_scraper\\app.py', reloading
+INFO 2023-07-31 19:39:45,495 werkzeug:  * Restarting with stat
+WARNING 2023-07-31 19:39:46,663 werkzeug:  * Debugger is active!
+INFO 2023-07-31 19:39:46,672 werkzeug:  * Debugger PIN: 108-810-641
+INFO 2023-07-31 19:39:49,732 werkzeug:  * Detected change in 'C:\\Users\\nikhi\\img_scraper\\app.py', reloading
+INFO 2023-07-31 19:39:49,791 werkzeug:  * Restarting with stat
+WARNING 2023-07-31 19:39:50,895 werkzeug:  * Debugger is active!
+INFO 2023-07-31 19:39:50,908 werkzeug:  * Debugger PIN: 108-810-641
+INFO 2023-07-31 19:40:05,959 app: Search Initiated
+INFO 2023-07-31 19:40:05,967 werkzeug: 127.0.0.1 - - [31/Jul/2023 19:40:05] "GET /search HTTP/1.1" 200 -
+INFO 2023-07-31 19:40:09,579 werkzeug: 127.0.0.1 - - [31/Jul/2023 19:40:09] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+INFO 2023-07-31 19:43:23,758 app: App Running
+INFO 2023-07-31 19:43:23,763 werkzeug: 127.0.0.1 - - [31/Jul/2023 19:43:23] "GET / HTTP/1.1" 200 -
+INFO 2023-07-31 19:43:26,196 app: App Running
+INFO 2023-07-31 19:43:26,196 werkzeug: 127.0.0.1 - - [31/Jul/2023 19:43:26] "GET / HTTP/1.1" 200 -
