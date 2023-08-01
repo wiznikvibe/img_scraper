@@ -18,7 +18,7 @@ def search():
             # Creating new folder inside the directory
             save_directory = "images/"
             if not os.path.exists(save_directory):
-                os.makedirs(save_dirs)
+                os.makedirs(save_directory)
             
 
             
