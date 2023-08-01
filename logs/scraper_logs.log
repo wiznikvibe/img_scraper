@@ -107,3 +107,15 @@ INFO 2023-07-31 19:43:23,758 app: App Running
 INFO 2023-07-31 19:43:23,763 werkzeug: 127.0.0.1 - - [31/Jul/2023 19:43:23] "GET / HTTP/1.1" 200 -
 INFO 2023-07-31 19:43:26,196 app: App Running
 INFO 2023-07-31 19:43:26,196 werkzeug: 127.0.0.1 - - [31/Jul/2023 19:43:26] "GET / HTTP/1.1" 200 -
+INFO 2023-08-01 18:35:02,045 werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO 2023-08-01 18:35:02,045 werkzeug: [33mPress CTRL+C to quit[0m
+INFO 2023-08-01 18:35:02,049 werkzeug:  * Restarting with stat
+WARNING 2023-08-01 18:35:03,140 werkzeug:  * Debugger is active!
+INFO 2023-08-01 18:35:03,148 werkzeug:  * Debugger PIN: 108-810-641
+INFO 2023-08-01 18:35:23,855 app: App Running
+INFO 2023-08-01 18:35:23,871 werkzeug: 127.0.0.1 - - [01/Aug/2023 18:35:23] "GET / HTTP/1.1" 200 -
+INFO 2023-08-01 18:35:23,967 werkzeug: 127.0.0.1 - - [01/Aug/2023 18:35:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO 2023-08-01 18:35:33,231 app: Search Initiated
+INFO 2023-08-01 18:35:33,234 werkzeug: 127.0.0.1 - - [01/Aug/2023 18:35:33] "GET /search HTTP/1.1" 200 -
+INFO 2023-08-01 18:35:37,506 werkzeug: 127.0.0.1 - - [01/Aug/2023 18:35:37] "[31m[1mPOST / HTTP/1.1[0m" 405 -
