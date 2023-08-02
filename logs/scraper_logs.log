@@ -510,3 +510,134 @@ INFO 2023-08-01 22:17:01,980 werkzeug: 127.0.0.1 - - [01/Aug/2023 22:17:01] "GET
 INFO 2023-08-01 22:17:01,996 werkzeug: 127.0.0.1 - - [01/Aug/2023 22:17:01] "GET /static/css/style.css HTTP/1.1" 200 -
 INFO 2023-08-01 22:17:01,996 werkzeug: 127.0.0.1 - - [01/Aug/2023 22:17:01] "GET /static/css/main.css HTTP/1.1" 200 -
 INFO 2023-08-01 22:17:25,438 werkzeug: 127.0.0.1 - - [01/Aug/2023 22:17:25] "POST / HTTP/1.1" 200 -
+INFO 2023-08-02 16:17:36,640 werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.143:5000
+INFO 2023-08-02 16:17:36,641 werkzeug: [33mPress CTRL+C to quit[0m
+INFO 2023-08-02 16:17:36,644 werkzeug:  * Restarting with stat
+WARNING 2023-08-02 16:17:37,661 werkzeug:  * Debugger is active!
+INFO 2023-08-02 16:17:37,671 werkzeug:  * Debugger PIN: 108-810-641
+INFO 2023-08-02 16:17:56,214 werkzeug: 127.0.0.1 - - [02/Aug/2023 16:17:56] "GET / HTTP/1.1" 200 -
+INFO 2023-08-02 16:17:56,280 werkzeug: 127.0.0.1 - - [02/Aug/2023 16:17:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO 2023-08-02 16:17:56,281 werkzeug: 127.0.0.1 - - [02/Aug/2023 16:17:56] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO 2023-08-02 16:17:56,323 werkzeug: 127.0.0.1 - - [02/Aug/2023 16:17:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO 2023-08-02 16:18:51,282 werkzeug: 127.0.0.1 - - [02/Aug/2023 16:18:51] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO 2023-08-02 16:18:51,312 werkzeug: 127.0.0.1 - - [02/Aug/2023 16:18:51] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO 2023-08-02 16:18:51,313 werkzeug: 127.0.0.1 - - [02/Aug/2023 16:18:51] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO 2023-08-02 16:18:51,330 werkzeug: 127.0.0.1 - - [02/Aug/2023 16:18:51] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO 2023-08-02 16:18:51,380 werkzeug: 127.0.0.1 - - [02/Aug/2023 16:18:51] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO 2023-08-02 16:22:10,842 werkzeug:  * Detected change in 'C:\\Users\\nikhi\\img_scraper\\app.py', reloading
+INFO 2023-08-02 16:22:11,041 werkzeug:  * Restarting with stat
+WARNING 2023-08-02 16:22:12,158 werkzeug:  * Debugger is active!
+INFO 2023-08-02 16:22:12,168 werkzeug:  * Debugger PIN: 108-810-641
+INFO 2023-08-02 16:22:36,552 werkzeug:  * Detected change in 'C:\\Users\\nikhi\\img_scraper\\app.py', reloading
+INFO 2023-08-02 16:22:36,596 werkzeug:  * Restarting with stat
+WARNING 2023-08-02 16:22:37,618 werkzeug:  * Debugger is active!
+INFO 2023-08-02 16:22:37,627 werkzeug:  * Debugger PIN: 108-810-641
+INFO 2023-08-02 16:22:44,711 werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.143:5000
+INFO 2023-08-02 16:22:44,711 werkzeug: [33mPress CTRL+C to quit[0m
+INFO 2023-08-02 16:22:44,714 werkzeug:  * Restarting with stat
+WARNING 2023-08-02 16:22:45,791 werkzeug:  * Debugger is active!
+INFO 2023-08-02 16:22:45,802 werkzeug:  * Debugger PIN: 108-810-641
+INFO 2023-08-02 16:22:53,573 werkzeug: 127.0.0.1 - - [02/Aug/2023 16:22:53] "GET / HTTP/1.1" 200 -
+INFO 2023-08-02 16:22:53,592 werkzeug: 127.0.0.1 - - [02/Aug/2023 16:22:53] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO 2023-08-02 16:22:53,593 werkzeug: 127.0.0.1 - - [02/Aug/2023 16:22:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO 2023-08-02 16:26:29,264 werkzeug: 127.0.0.1 - - [02/Aug/2023 16:26:29] "POST / HTTP/1.1" 200 -
+INFO 2023-08-02 16:27:14,688 werkzeug:  * Detected change in 'C:\\Users\\nikhi\\img_scraper\\app.py', reloading
+INFO 2023-08-02 16:27:14,743 werkzeug:  * Restarting with stat
+WARNING 2023-08-02 16:27:15,818 werkzeug:  * Debugger is active!
+INFO 2023-08-02 16:27:15,826 werkzeug:  * Debugger PIN: 108-810-641
+INFO 2023-08-02 16:27:16,864 werkzeug:  * Detected change in 'C:\\Users\\nikhi\\img_scraper\\app.py', reloading
+INFO 2023-08-02 16:27:16,906 werkzeug:  * Restarting with stat
+WARNING 2023-08-02 16:27:17,941 werkzeug:  * Debugger is active!
+INFO 2023-08-02 16:27:17,957 werkzeug:  * Debugger PIN: 108-810-641
+INFO 2023-08-02 16:27:18,988 werkzeug:  * Detected change in 'C:\\Users\\nikhi\\img_scraper\\app.py', reloading
+INFO 2023-08-02 16:27:19,035 werkzeug:  * Restarting with stat
+WARNING 2023-08-02 16:27:20,038 werkzeug:  * Debugger is active!
+INFO 2023-08-02 16:27:20,054 werkzeug:  * Debugger PIN: 108-810-641
+INFO 2023-08-02 16:27:38,338 werkzeug:  * Detected change in 'C:\\Users\\nikhi\\img_scraper\\app.py', reloading
+INFO 2023-08-02 16:27:38,368 werkzeug:  * Restarting with stat
+WARNING 2023-08-02 16:27:39,436 werkzeug:  * Debugger is active!
+INFO 2023-08-02 16:27:39,445 werkzeug:  * Debugger PIN: 108-810-641
+INFO 2023-08-02 16:27:41,488 werkzeug:  * Detected change in 'C:\\Users\\nikhi\\img_scraper\\app.py', reloading
+INFO 2023-08-02 16:27:41,519 werkzeug:  * Restarting with stat
+WARNING 2023-08-02 16:27:42,523 werkzeug:  * Debugger is active!
+INFO 2023-08-02 16:27:42,523 werkzeug:  * Debugger PIN: 108-810-641
+INFO 2023-08-02 16:27:46,617 werkzeug:  * Detected change in 'C:\\Users\\nikhi\\img_scraper\\app.py', reloading
+INFO 2023-08-02 16:27:46,666 werkzeug:  * Restarting with stat
+WARNING 2023-08-02 16:27:47,702 werkzeug:  * Debugger is active!
+INFO 2023-08-02 16:27:47,712 werkzeug:  * Debugger PIN: 108-810-641
+INFO 2023-08-02 16:28:03,944 werkzeug:  * Detected change in 'C:\\Users\\nikhi\\img_scraper\\app.py', reloading
+INFO 2023-08-02 16:28:03,975 werkzeug:  * Restarting with stat
+WARNING 2023-08-02 16:28:04,998 werkzeug:  * Debugger is active!
+INFO 2023-08-02 16:28:05,004 werkzeug:  * Debugger PIN: 108-810-641
+INFO 2023-08-02 16:28:07,055 werkzeug:  * Detected change in 'C:\\Users\\nikhi\\img_scraper\\app.py', reloading
+INFO 2023-08-02 16:28:07,112 werkzeug:  * Restarting with stat
+WARNING 2023-08-02 16:28:08,203 werkzeug:  * Debugger is active!
+INFO 2023-08-02 16:28:08,214 werkzeug:  * Debugger PIN: 108-810-641
+INFO 2023-08-02 16:28:09,255 werkzeug:  * Detected change in 'C:\\Users\\nikhi\\img_scraper\\app.py', reloading
+INFO 2023-08-02 16:28:09,319 werkzeug:  * Restarting with stat
+INFO 2023-08-02 16:29:01,666 werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.143:5000
+INFO 2023-08-02 16:29:01,667 werkzeug: [33mPress CTRL+C to quit[0m
+INFO 2023-08-02 16:29:01,669 werkzeug:  * Restarting with stat
+WARNING 2023-08-02 16:29:02,805 werkzeug:  * Debugger is active!
+INFO 2023-08-02 16:29:02,816 werkzeug:  * Debugger PIN: 108-810-641
+INFO 2023-08-02 16:29:04,682 werkzeug: 127.0.0.1 - - [02/Aug/2023 16:29:04] "GET / HTTP/1.1" 200 -
+INFO 2023-08-02 16:29:04,701 werkzeug: 127.0.0.1 - - [02/Aug/2023 16:29:04] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO 2023-08-02 16:29:04,702 werkzeug: 127.0.0.1 - - [02/Aug/2023 16:29:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO 2023-08-02 16:29:40,609 root: Image data populated into the MongoDb Cluster
+INFO 2023-08-02 16:29:40,611 werkzeug: 127.0.0.1 - - [02/Aug/2023 16:29:40] "POST / HTTP/1.1" 200 -
+INFO 2023-08-02 16:34:25,440 werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.143:5000
+INFO 2023-08-02 16:34:25,441 werkzeug: [33mPress CTRL+C to quit[0m
+INFO 2023-08-02 16:34:25,443 werkzeug:  * Restarting with stat
+WARNING 2023-08-02 16:34:26,560 werkzeug:  * Debugger is active!
+INFO 2023-08-02 16:34:26,569 werkzeug:  * Debugger PIN: 108-810-641
+INFO 2023-08-02 16:34:29,957 werkzeug: 127.0.0.1 - - [02/Aug/2023 16:34:29] "GET / HTTP/1.1" 200 -
+INFO 2023-08-02 16:34:29,976 werkzeug: 127.0.0.1 - - [02/Aug/2023 16:34:29] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO 2023-08-02 16:34:29,977 werkzeug: 127.0.0.1 - - [02/Aug/2023 16:34:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO 2023-08-02 16:35:05,756 root: bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO 2023-08-02 16:35:05,756 werkzeug: 127.0.0.1 - - [02/Aug/2023 16:35:05] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO 2023-08-02 16:35:05,805 werkzeug: 127.0.0.1 - - [02/Aug/2023 16:35:05] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO 2023-08-02 16:35:05,806 werkzeug: 127.0.0.1 - - [02/Aug/2023 16:35:05] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO 2023-08-02 16:35:05,818 werkzeug: 127.0.0.1 - - [02/Aug/2023 16:35:05] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO 2023-08-02 16:35:05,849 werkzeug: 127.0.0.1 - - [02/Aug/2023 16:35:05] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO 2023-08-02 16:38:11,593 werkzeug:  * Detected change in 'C:\\Users\\nikhi\\img_scraper\\app.py', reloading
+INFO 2023-08-02 16:38:11,640 werkzeug:  * Restarting with stat
+WARNING 2023-08-02 16:38:12,693 werkzeug:  * Debugger is active!
+INFO 2023-08-02 16:38:12,709 werkzeug:  * Debugger PIN: 108-810-641
+INFO 2023-08-02 16:38:23,280 werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.143:5000
+INFO 2023-08-02 16:38:23,280 werkzeug: [33mPress CTRL+C to quit[0m
+INFO 2023-08-02 16:38:23,280 werkzeug:  * Restarting with stat
+WARNING 2023-08-02 16:38:24,297 werkzeug:  * Debugger is active!
+INFO 2023-08-02 16:38:24,306 werkzeug:  * Debugger PIN: 108-810-641
+INFO 2023-08-02 16:38:29,917 werkzeug: 127.0.0.1 - - [02/Aug/2023 16:38:29] "GET / HTTP/1.1" 200 -
+INFO 2023-08-02 16:38:29,938 werkzeug: 127.0.0.1 - - [02/Aug/2023 16:38:29] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO 2023-08-02 16:38:29,939 werkzeug: 127.0.0.1 - - [02/Aug/2023 16:38:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO 2023-08-02 16:38:58,084 root: Image data populated into the MongoDb Cluster
+INFO 2023-08-02 16:38:58,084 werkzeug: 127.0.0.1 - - [02/Aug/2023 16:38:58] "POST / HTTP/1.1" 200 -
+INFO 2023-08-02 16:41:04,367 werkzeug:  * Detected change in 'C:\\Users\\nikhi\\img_scraper\\app.py', reloading
+INFO 2023-08-02 16:41:04,424 werkzeug:  * Restarting with stat
+INFO 2023-08-02 16:41:11,826 werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.143:8000
+INFO 2023-08-02 16:41:11,826 werkzeug: [33mPress CTRL+C to quit[0m
+INFO 2023-08-02 16:41:20,278 werkzeug: 127.0.0.1 - - [02/Aug/2023 16:41:20] "GET / HTTP/1.1" 200 -
+INFO 2023-08-02 16:41:20,297 werkzeug: 127.0.0.1 - - [02/Aug/2023 16:41:20] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO 2023-08-02 16:41:20,298 werkzeug: 127.0.0.1 - - [02/Aug/2023 16:41:20] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO 2023-08-02 16:41:20,327 werkzeug: 127.0.0.1 - - [02/Aug/2023 16:41:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO 2023-08-02 16:41:52,799 root: Image data populated into the MongoDb Cluster
+INFO 2023-08-02 16:41:52,799 werkzeug: 127.0.0.1 - - [02/Aug/2023 16:41:52] "POST / HTTP/1.1" 200 -
